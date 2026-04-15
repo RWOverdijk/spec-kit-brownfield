@@ -26,7 +26,7 @@ The Brownfield Bootstrap extension adds four commands for adopting spec-kit in e
 ## Installation
 
 ```bash
-specify extension add --from https://github.com/Quratulain-bilal/spec-kit-brownfield/archive/refs/tags/v1.0.0.zip
+specify extension add brownfield --from https://github.com/Quratulain-bilal/spec-kit-brownfield/archive/refs/tags/v1.0.0.zip
 ```
 
 ## How It Works
